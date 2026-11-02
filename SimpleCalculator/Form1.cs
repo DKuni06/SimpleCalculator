@@ -1,8 +1,8 @@
 namespace SimpleCalculator
 {
-    public partial class Form1 : Form
+    public partial class frmSimpleCalc : Form
     {
-        public Form1()
+        public frmSimpleCalc()
         {
             InitializeComponent();
         }
