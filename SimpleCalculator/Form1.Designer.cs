@@ -130,6 +130,7 @@
             Controls.Add(lblOpnd1);
             Name = "frmSimpleCalc";
             Text = "Simple Calculator";
+            Load += frmSimpleCalc_Load;
             ResumeLayout(false);
             PerformLayout();
         }
